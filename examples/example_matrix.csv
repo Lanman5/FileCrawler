@@ -1,0 +1,71 @@
+Code,Title,Allowed Types,Phase 1 - Tender,Phase 2 - Design,Phase 3 - Construction,Phase 4 - Handover
+1,General & Administration,,,,,
+1.1,Contractor Information Form,.pdf; .docx,Y,Y,Y,Y
+1.2,Insurance Certificates,.pdf,Y,Y,Y,Y
+1.3,Health & Safety Policy,.pdf; .docx,Y,Y,Y,
+1.4,Quality Management Plan,.pdf; .docx,Y,Y,Y,
+2,Design,,,,,
+2.1,Design Basis Report,.pdf; .docx,Y,Y,,
+2.2,Architectural Drawings,.pdf; .dwg,,Y,Y,
+2.3,Structural Calculations,.pdf; .xlsx,,Y,Y,
+2.4,Structural Drawings,.pdf; .dwg,,Y,Y,
+2.5,Mechanical Design Report,,,Y,,
+2.6,Electrical Design Report,,,Y,,
+2.7,Plumbing & Drainage Design,,,Y,,
+2.8,Fire Strategy Report,.pdf,,Y,Y,
+2.9,Geotechnical Report,.pdf,,Y,,
+2.10,Design Risk Register,.xlsx; .pdf,,Y,Y,
+2.11,Design Change Log,.xlsx,,Y,Y,Y
+3,Planning & Permits,,,,,
+3.1,Planning Application,.pdf,Y,Y,,
+3.2,Building Regulations Approval,.pdf,,Y,Y,
+3.3,Environmental Impact Assessment,.pdf,,Y,,
+3.4,Utility Connection Agreements,.pdf,,,Y,
+3.5,Road Closure Permits,.pdf,,,Y,
+4,Procurement,,,,,
+4.1,Procurement Strategy,,Y,Y,,
+4.2,Subcontractor List,.xlsx; .pdf,,Y,Y,
+4.3,Long-lead Items Schedule,.xlsx,,Y,Y,
+4.4,Material Submittals,,,,Y,
+4.5,Supplier Warranties,.pdf,,,Y,Y
+4.6,Purchase Order Log,.xlsx,,,Y,
+5,Construction,,,,,
+5.1,Construction Programme,.pdf; .mpp; .xlsx,Y,,Y,
+5.2,Method Statements,.pdf; .docx,,,Y,
+5.3,Site Logistics Plan,.pdf,,,Y,
+5.4,Daily Site Diaries,,,,Y,
+5.5,Monthly Progress Reports,.pdf,,,Y,
+5.6,Temporary Works Register,.xlsx,,,Y,
+5.7,Site Photographs,.jpg; .png; .zip,,,Y,Y
+5.8,Variations Register,.xlsx,,,Y,Y
+6,"Health, Safety & Environment",,,,,
+6.1,Health & Safety Plan,.pdf; .docx,Y,Y,Y,
+6.2,Risk Assessments,,,Y,Y,
+6.3,COSHH Register,.xlsx; .pdf,,,Y,
+6.4,Environmental Management Plan,.pdf,,Y,Y,
+6.5,Site Waste Management Plan,.pdf,,,Y,
+6.6,Incident Log,.xlsx,,,Y,Y
+6.7,Site Induction & Training Records,,,,Y,
+7,Quality Assurance,,,,,
+7.1,Inspection & Test Plan,.pdf; .xlsx,Y,Y,Y,
+7.2,Material Test Certificates,.pdf,,,Y,Y
+7.3,Non-conformance Register,.xlsx,,,Y,Y
+7.4,Quality Audit Reports,.pdf,,,Y,
+7.5,Snagging List,.xlsx; .pdf,,,,Y
+7.6,Quality Records Index,.xlsx,,,,Y
+8,Testing & Commissioning,,,,,
+8.1,Commissioning Plan,.pdf,,,Y,
+8.2,Electrical Test Certificates,.pdf,,,,Y
+8.3,Mechanical Commissioning Records,.pdf,,,,Y
+8.4,Fire Alarm Certificate,.pdf,,,,Y
+8.5,Witness Test Reports,.pdf,,,,Y
+9,Handover & Close-out,,,,,
+9.1,As-built Drawings,.pdf; .dwg,,,,Y
+9.2,O&M Manuals,.pdf,,,,Y
+9.3,Health & Safety File,.pdf,,,,Y
+9.4,Building Log Book,.pdf,,,,Y
+9.5,Asset Register,.xlsx,,,,Y
+9.6,Warranties & Guarantees,.pdf,,,,Y
+9.7,End-user Training Records,.pdf,,,,Y
+9.8,Practical Completion Certificate,.pdf,,,,Y
+9.9,Final Account,.pdf; .xlsx,,,,Y
